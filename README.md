@@ -1,0 +1,1 @@
+This repository contains example code demonstrating an uncommon error in Python related to unsupported operand types during division.  The `bug.py` file shows the error-prone function and how to handle common exceptions.  The `bugSolution.py` file might offer alternative solutions or more robust error handling.
